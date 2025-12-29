@@ -102,7 +102,7 @@ class MainActivity : ComponentActivity() {
                         username = it
                     })
                 } else {
-                    // --- USER HAS A NAME: SHOW CHAT SCREEN ---
+                    // --- USER HAS A NAME: SHOW CHAT SCREE N ---
                     val currentUsername = username!!
 
                     // This effect handles the initial connection.
