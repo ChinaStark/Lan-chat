@@ -1,4 +1,4 @@
-# Lan-Chat 应用 README
+# Lan-Chat
 
 这是一个基于现代安卓技术栈构建的本地局域网（LAN）实时聊天应用。
 > Tips: 项目整体框架由作者在阅读、学习Google《Android 之 Compose 开发基础》之后完，在借助Google gemini完成。
